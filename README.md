@@ -14,7 +14,6 @@ To begin using this template, choose one of the following options to get started
     Clone the repo: git clone https://github.com/BlackrockDigital/startbootstrap-resume.git
 
 # Fork, Clone, or Download on GitHub
-# Usage
 
 # Basic Usage
 After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the index.html file in your web browser.
