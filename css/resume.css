@@ -113,6 +113,8 @@ p.lead {
   box-shadow: 0 18px 38px var(--theme-shadow);
   overflow: hidden;
   margin-top: 1cm;
+  position: relative;
+  left: 0.5in;
 }
 
 .hero-photo {
